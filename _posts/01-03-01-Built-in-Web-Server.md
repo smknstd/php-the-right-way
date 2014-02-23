@@ -11,4 +11,4 @@ Vous pouvez commencer à apprendre PHP sans vous embetter à installer et confgu
 
 * [En savoir plus sur le serveur intégré en ligne de commande][cli-server]
 
-[cli-server]: http://www.php.net/manual/en/features.commandline.webserver.php
+[cli-server]: http://www.php.net/manual/fr/features.commandline.webserver.php
