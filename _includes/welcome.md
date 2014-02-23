@@ -1,6 +1,6 @@
 # Bienvenue
 
-Il y a beaucoup d'informations dépassées sur le web qui mènent les nouveaux utilisateurs de PHP, à propager des mauvaises pratiques et du code peu sûr. _PHP: Convenablement_ est une rappel léger et facile à lire sur les standards de développement populaires du PHP, pointant des tutoriels de référence et ce que les auteurs considèrent actuellement comme les bonnes pratiques. 
+Il y a beaucoup d'informations dépassées sur le web qui mènent les nouveaux utilisateurs de PHP, à propager des mauvaises pratiques et du code peu sûr. _PHP: Convenablement_ est un rappel léger et facile à lire sur les standards de développement populaires du PHP, pointant des tutoriels de référence et ce que les auteurs considèrent actuellement comme les bonnes pratiques. 
 
 _Il n'y pas une seule et unique bonne façon d'utiliser PHP_. Ce site web a pour but d'introduire les développeurs PHP novices a quelques sujets qu'ils ne pourraient découvrir que lorsqu'il sera trop tard, et souhaite donner aux plus expérimentés des idées neuves sur ces sujets qu'ils mettent en œuvre depuis des années sans remise en question. Ce site web vous guidera aussi sur quels outils utiliser, mais ne se limitera pas à suggérer les différentes options possibles, mais quand c'est possible en expliquera les différences d'approches avec des exemples d'utilisations. 
 
@@ -26,7 +26,7 @@ _PHP: Convenablement_ est (ou sera) traduit dans différents langues:
 
 ## Comment contribuer
 
-Aider a faire de ce site web la meilleure ressource pour les débutants [Contribuez sur GitHub][1]
+Aider à faire de ce site web la meilleure ressource pour les débutants [Contribuez sur GitHub][1]
 
 ## Parlez-en!
 
