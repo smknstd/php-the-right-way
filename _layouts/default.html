@@ -17,22 +17,25 @@
         <link rel="stylesheet" href="/styles/print.css" media="print, handheld"/>
         <link rel="stylesheet" href="/styles/syntax.css"/>
         <link rel="icon" href="/images/favicon.png" type="image/png"/>
-        <script>
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-362072-7']);
-        _gaq.push(['_trackPageview']);
-        (function() {
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-5215670-8']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+          })();
+
         </script>
     </head>
     <body>
         <nav class="site-navigation">
             <div class="build-date">Last Updated: {{ site.time }}</div>
             <ul>
-                <li><a href="/#site-header">Welcome</a></li>
+                <li><a href="/#site-header">Bienvenue</a></li>
                 {% assign lastIsChild = false %}
                 {% for post in site.posts reversed %}
                     {% if post.isChild and lastIsChild != true %}<ul>{% endif %}
@@ -52,7 +55,7 @@
             <header class="site-header" id="site-header">
                 <hgroup>
                     <h1 class="site-title"><a href="/">PHP</a></h1>
-                    <h2 class="site-slogan">The Right Way.</h2>
+                    <h2 class="site-slogan">Convenablement.</h2>
                 </hgroup>
                 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.phptherightway.com/" data-size="large" data-hashtags="php">Tweet</a>
             </header>
