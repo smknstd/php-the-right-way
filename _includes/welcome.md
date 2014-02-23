@@ -1,49 +1,38 @@
-# Welcome
+# Bienvenue
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Il y a beaucoup d'informations dépassées sur le web qui mènent les nouveaux utilisateurs de PHP, à propager des mauvaises pratiques et du code peu sûr. _PHP: Convenablement_ est une rappel léger et facile à lire sur les standards de développement populaires du PHP, pointant des tutoriels de référence et ce que les auteurs considèrent actuellement comme les bonnes pratiques. 
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+_Il n'y pas une seule et unique bonne façon d'utiliser PHP_. Ce site web a pour but d'introduire les développeurs PHP novices a quelques sujets qu'ils ne pourraient découvrir que lorsqu'il sera trop tard, et souhaite donner aux plus expérimentés des idées neuves sur ces sujets qu'ils mettent en œuvre depuis des années sans remise en question. Ce site web vous guidera aussi sur quels outils utiliser, mais ne se limitera pas à suggérer les différentes options possibles, mais quand c'est possible en expliquera les différences d'approches avec des exemples d'utilisations. 
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+C'est un document vivant qui continuera a être complété et mis à jour au fur et à mesure avec toujours plus d'informations utiles et d'exemples.
 
-## Translations
+## Traductions
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: Convenablement_ est (ou sera) traduit dans différents langues:
 
-* [English](http://www.phptherightway.com)
-* [Chinese (Simplified)](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://wafe.github.io/php-the-right-way/)
-* [Italian](http://it.phptherightway.com/)
+* [Anglais](http://www.phptherightway.com)
+* [Chinois (Simplifié)](http://wulijun.github.com/php-the-right-way)
+* [Japonais](http://ja.phptherightway.com)
+* [Coréen](http://wafe.github.io/php-the-right-way/)
+* [Italien](http://it.phptherightway.com/)
 * [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Spanish](http://lamaneracorrecta.php.org.ve)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
+* [Portugais](http://br.phptherightway.com/)
+* [Russe](http://getjump.github.io/ru-php-the-right-way)
+* [Espagnol](http://lamaneracorrecta.php.org.ve)
+* [Ukrainien](http://iflista.github.com/php-the-right-way/)
+* [Bulgare](http://bg.phptherightway.com/)
+* [Allemand](http://rwetzlmayr.github.io/php-the-right-way/)
+* [Turque](http://hkulekci.github.io/php-the-right-way/)
 
-## How to Contribute
+## Comment contribuer
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Aider a faire de ce site web la meilleure ressource pour les débutants [Contribuez sur GitHub][1]
 
-## Spread the Word!
+## Parlez-en!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: Convenablement_ dispose de bannières (images) que vous pouvez utiliser sur votre site. Montrez votre soutien et montrez aux nouveaux développeurs PHP o se trouve les bonnes informations!
 
-[See Banner Images][2]
+[Exemples de bannières][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html

@@ -1,11 +1,11 @@
 ---
-title: Use the Current Stable Version (5.5)
+title: Utilisez la version stable courrante (5.5)
 isChild: true
 ---
 
-## Use the Current Stable Version (5.5) {#use_the_current_stable_version_55_title}
+## Utilisez la version stable courrante (5.5) {#use_the_current_stable_version_55_title}
 
-If you are just getting started with PHP make sure to start with the current stable release of [PHP 5.5][php-release]. PHP has made great strides adding powerful [new features](#language_highlights) over the last few years. Don't let the minor version number difference between 5.2 and 5.5 fool you, it represents _major_ improvements. If you are looking for a function or its usage, the documentation on the [php.net][php-docs] website will have the answer.
+Si vous venez de commencer avec PHP, assurez vous que vous utilisez bien le dernière evrsion stable de [PHP 5.5][php-release]. PHP a rajouté des [nouvelles fonctionnalités](#language_highlights) puissantes ces dernières années. Ne laissez pas la différence entre le numéro de version mineure entre 5.2 et 5.5 vous induire en erreur, cela représente des améliorations majeures. Si vous cherchez une fonction ou la manière de l'utiliser, la documentation sur le site [php.net][php-docs] vous donnera la réponse.
 
 [php-release]: http://www.php.net/downloads.php
 [php-docs]: http://www.php.net/manual/en/
