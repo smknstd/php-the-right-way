@@ -1,8 +1,9 @@
 ---
+title: Configuration Mac
 isChild: true
 ---
 
-## Configuration Mac  {#mac_setup_title}
+## Configuration Mac {#mac_setup_title}
 
 OSX contient PHP préinstallé, mais la version ets généralement un peu plus ancienne que la dernière version stable disponioble. Lion dispose de PHP 5.3.6, Moutain Lion de 5.3.10 et Mavericks de 5.4.17. 
 
